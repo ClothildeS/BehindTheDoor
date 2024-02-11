@@ -70,3 +70,46 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/BehindTheDoor/Logs
+/BehindTheDoor/Library
+/BehindTheDoor/Temp
+/BehindTheDoor/UserSettings
+/BehindTheDoor/.vsconfig
+/BehindTheDoor/Assembly-CSharp.csproj
+/BehindTheDoor/Assembly-CSharp-Editor.csproj
+/BehindTheDoor/Ithaca-Unity.sln
+/BehindTheDoor/.vs
+/BehindTheDoor/obj
+/BehindTheDoor/auto-save.epp
+
+#####FMOD#####
+# Never ignore DLLs in the FMOD subfolder.
+!/[Aa]ssets/Plugins/FMOD/**/lib/*
+
+# Don't ignore images and gizmos used by FMOD in the Unity Editor.
+!/[Aa]ssets/Gizmos/FMOD/*
+!/[Aa]ssets/Editor Default Resources/FMOD/*
+
+# Ignore the Cache folder since it is updated locally.
+/[Aa]ssets/Plugins/FMOD/Cache/*
+
+# Ignore bank files in the StreamingAssets folder.
+/[Aa]ssets/StreamingAssets/**/*.bank
+/[Aa]ssets/StreamingAssets/**/*.bank.meta
+
+# If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
+# Log files can be ignored.
+fmod_editor.log
+
+# Ignore Profiler sessions and cache
+/BehindTheDoor/Metadata/ProfilerFolder
+/BehindTheDoor/Metadata/ProfilerSession
+/BehindTheDoor/.unsaved
+/BehindTheDoor/.cache
+/BehindTheDoor/.user
+/BehindTheDoor/FMODUnityResonanceEditor.csproj
+/BehindTheDoor/FMODUnity.csproj
+/BehindTheDoor/FMODUnityEditor.csproj
+/BehindTheDoor/FMODUnityResonance.csproj
+/BehindTheDoor/Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset
