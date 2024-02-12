@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{59a2d2ff-6456-4325-8cfe-babba366364e}">
+		<property name="assetPath">
+			<value>Test/Test_SeaWater.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>18.774291666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{35203bc8-d77c-4d77-8330-1c9301912cac}</destination>
+		</relationship>
+	</object>
+</objects>
