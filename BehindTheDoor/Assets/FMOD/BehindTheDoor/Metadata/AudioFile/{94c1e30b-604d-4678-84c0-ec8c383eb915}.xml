@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{94c1e30b-604d-4678-84c0-ec8c383eb915}">
+		<property name="assetPath">
+			<value>Door/Door_Transform_Window_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.9716041666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{35203bc8-d77c-4d77-8330-1c9301912cac}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{45bbd0b1-e96d-44e2-94dd-c0dfecb50fd4}">
+		<property name="assetPath">
+			<value>Door/Door_Footstep_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.071458333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{35203bc8-d77c-4d77-8330-1c9301912cac}</destination>
+		</relationship>
+	</object>
+</objects>
