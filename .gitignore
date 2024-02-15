@@ -103,13 +103,13 @@ crashlytics-build.properties
 fmod_editor.log
 
 # Ignore Profiler sessions and cache
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/Metadata/ProfilerFolder
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/Metadata/ProfilerSession
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/.unsaved
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/.cache
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/.user
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/FMODUnityResonanceEditor.csproj
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/FMODUnity.csproj
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/FMODUnityEditor.csproj
-/BehindTheDoor/Assets/FMOD/BehindTheDoor/FMODUnityResonance.csproj
+/BehindTheDoor/Metadata/ProfilerFolder
+/BehindTheDoor/Metadata/ProfilerSession
+/BehindTheDoor/.unsaved
+/BehindTheDoor/.cache
+/BehindTheDoor/.user
+/BehindTheDoor/FMODUnityResonanceEditor.csproj
+/BehindTheDoor/FMODUnity.csproj
+/BehindTheDoor/FMODUnityEditor.csproj
+/BehindTheDoor/FMODUnityResonance.csproj
 /BehindTheDoor/Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset

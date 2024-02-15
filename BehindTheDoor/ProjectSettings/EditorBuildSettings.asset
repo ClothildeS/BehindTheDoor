@@ -4,11 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Menu.unity
-    guid: ede4bd6474f2f0540b91871e1126bcbe
-  - enabled: 1
-    path: Assets/Scenes/sceneLeandro.unity
-    guid: b8b1f681b9ed23e499f7b920a53a8d80
+  m_Scenes: []
   m_configObjects: {}
